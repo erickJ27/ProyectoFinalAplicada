@@ -8,7 +8,7 @@ Clinica Dental Dr.Gutierrez ::
 ![banner reportes](https://user-images.githubusercontent.com/50554753/62085682-29baf680-b22a-11e9-97f0-48368f5c62b1.PNG)
 
 
-## DESCRIPCION♀
+## DESCRIPCION
 ![About_icon-icons com_55974](https://user-images.githubusercontent.com/50494642/62062891-77e8ed80-b25c-11e9-8e59-c9432487dad2.png)
 
 Este Sistema esta Realizado para el uso en consultas medicas de odontologo Bridando Facilidad a la hora de las consultas 
